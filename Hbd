@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HBD Nita</title>
+
+<style>
+body{
+    margin:0;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:#fff;
+    font-family:Arial,sans-serif;
+}
+
+h1{
+    font-size:4rem;
+    text-align:center;
+}
+
+.coret{
+    text-decoration: line-through;
+    color:#888;
+}
+
+.nita{
+    color:#ff4d6d;
+    font-weight:bold;
+}
+</style>
+</head>
+<body>
+
+<h1>
+🎉 HBD <span class="coret">Yuni</span> <span class="nita">Nita</span> 🎂
+</h1>
+
+</body>
+</html>
